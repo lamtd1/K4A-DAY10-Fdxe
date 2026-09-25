@@ -1,6 +1,6 @@
 # Hướng Dẫn Nộp Bài & Quy Chuẩn Đánh Giá (SUBMISSION)
 
-> ⚠️ **QUY ĐỊNH BẮT BUỘC ĐỂ TRÁNH THIẾU BÀI HOẶC CHẤM NHẦM:**  
+> **QUY ĐỊNH BẮT BUỘC ĐỂ TRÁNH THIẾU BÀI HOẶC CHẤM NHẦM:**  
 > Dù bài thực hành làm theo nhóm, **MỖI CÁ NHÂN ĐỀU PHẢI TỰ NỘP ĐƯỜNG LINK REPOSITORY CỦA NHÓM LÊN CỔNG VLEARN LMS**.  
 > Cổng LMS chấm điểm độc lập theo tài khoản của từng cá nhân. Nếu thành viên nào không nộp link thì hệ thống sẽ ghi nhận vắng/chưa nộp bài!
 
